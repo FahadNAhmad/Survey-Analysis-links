@@ -8,3 +8,5 @@ https://slcladal.github.io/surveys.html
   https://www.clarksoncollege.edu/default/assets/File/questionnaire_analysis_using_spss.pdf
   
   https://files.givewell.org/files/DWDA%202009/Helen_Keller_International/PECS_Survey_Data_Analysis_using_SPSS_V2_3-12-12.pdf
+  
+  https://medium.com/analytics-vidhya/from-spss-to-r-rewriting-code-for-survey-data-tabulation-mics-survey-example-3d72d3c813f7
