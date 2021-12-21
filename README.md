@@ -12,3 +12,5 @@ https://slcladal.github.io/surveys.html
   https://medium.com/analytics-vidhya/from-spss-to-r-rewriting-code-for-survey-data-tabulation-mics-survey-example-3d72d3c813f7
   
   https://www.youtube.com/watch?v=Kp_js1i6xwE
+  
+  https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/cluster-analysis/
