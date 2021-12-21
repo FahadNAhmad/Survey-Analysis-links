@@ -16,3 +16,5 @@ https://slcladal.github.io/surveys.html
   https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/cluster-analysis/
   
   https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/the-logistic-regression-analysis-in-spss/
+  
+  https://www.spss-tutorials.com/logistic-regression/
