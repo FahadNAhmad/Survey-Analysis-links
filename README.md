@@ -23,3 +23,5 @@ https://slcladal.github.io/surveys.html
   https://www.spss-tutorials.com/logistic-regression/
   
   https://tutorials.methodsconsultants.com/posts/logistic-regression-in-spss/
+  
+  https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python?irclickid=zCF2lGzk%3AxyIWzTWq4y7EwhkUkGwFcyhW06YTU0&irgwc=1
