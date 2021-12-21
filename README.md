@@ -10,3 +10,5 @@ https://slcladal.github.io/surveys.html
   https://files.givewell.org/files/DWDA%202009/Helen_Keller_International/PECS_Survey_Data_Analysis_using_SPSS_V2_3-12-12.pdf
   
   https://medium.com/analytics-vidhya/from-spss-to-r-rewriting-code-for-survey-data-tabulation-mics-survey-example-3d72d3c813f7
+  
+  https://www.youtube.com/watch?v=Kp_js1i6xwE
